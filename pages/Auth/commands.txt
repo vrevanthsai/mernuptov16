@@ -1,0 +1,28 @@
+1. Client(React) based npm commands
+
+=>React hook from commands add in client> root-path
+
+1. react hook form --
+npm i react-hook-form
+
+2. yup - schema validation --
+npm i yup
+
+3. yup - resolvers(to apply schema) --
+npm i @hookform/resolvers
+
+4. yup - password-validation --
+npm i yup-password
+
+5. Eye icon for password displaying --
+
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/react-fontawesome
+
+6. react-hook-form works in create-react-app project but it gives a warning for RegEx(email,phone) in the code 
+->but it works fine/better in Vite(but it needs props-validation) 
+
+create react app --
+npm i create-react-app appname
+
